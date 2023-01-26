@@ -1,13 +1,13 @@
 # microservices_python
 My personal projects for microservices with Python
 
-Installing Python 3.X
-Creating Python Virtual Environments
-Installing Python VS Code Extension
-Sample Flask Application
-Jinja templating for Dynamic Web Pages
-Using Pip to Freeze Python Dependencies
-Building the docker image using Dockerfile
-Writing Docker Compose file
-Writing Kubernetes Manifest files for the application
-Creating Helm Chart
+1. Installing Python 3.X
+2. Creating Python Virtual Environments
+3. Installing Python VS Code Extension
+4. Sample Flask Application
+5. Jinja templating for Dynamic Web Pages
+6. Using Pip to Freeze Python Dependencies
+7. Building the docker image using Dockerfile
+8. Writing Docker Compose file
+9. Writing Kubernetes Manifest files for the application
+10. Creating Helm Chart
